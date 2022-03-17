@@ -1,0 +1,4 @@
+event_file = "../keskin_data/2018/BR10*.090.00.00.00" #input file name and location
+output_name = "keskin_2018_090" #output file name
+outpath = '2018/90/' #output file location
+tw = 5*60 # time window for the signal to be processed & noise estimate
